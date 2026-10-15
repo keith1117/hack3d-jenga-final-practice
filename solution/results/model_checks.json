@@ -1,0 +1,18 @@
+{
+  "house_step_valid": true,
+  "house_step_solids": 1,
+  "house_step_volume_mm3": 532.3396845748416,
+  "house_step_size_mm": [
+    16.21219637800853,
+    13.500000199999999,
+    10.0000002
+  ],
+  "stl_triangles": 35468,
+  "stl_bytes_match_triangle_count": true,
+  "stl_edges_used_twice": true,
+  "stl_size_mm": [
+    16.212200164794922,
+    13.5,
+    10.0
+  ]
+}

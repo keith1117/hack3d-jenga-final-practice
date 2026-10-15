@@ -1,0 +1,23 @@
+{
+  "answer": "Monopoly",
+  "numbered_parts": 54,
+  "assembly_instances": 55,
+  "parts_with_enclosed_cavities": 13,
+  "qr_parts": [
+    15,
+    16,
+    21,
+    22,
+    27,
+    28,
+    33,
+    34,
+    39,
+    40
+  ],
+  "qr_payload": "https://drive.google.com/file/d/1INetMAmWu2S0kqHK8zMEVcYfBpoYQ0bC/view?usp=sharing",
+  "qr_clean_decode_matches_raw": true,
+  "url_read_from_parts_2_and_3": "https://www.britannica.com/biography/J-P-Morgan",
+  "banknote_part": 19,
+  "house_part": 55
+}
